@@ -1,8 +1,8 @@
-# PolyMono API
+# nestjs-fastify-app-template
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This is a template project for building [Nest](https://github.com/nestjs/nest) applications with Fastify. It includes a pre-configured development environment, as well as several useful scripts for linting and spell checking your code.
 
 ## Installation
 
